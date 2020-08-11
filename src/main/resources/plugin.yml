@@ -1,0 +1,4 @@
+name: Valocraft
+version: ${project.version}
+main: br.com.valocraft.bukkitplugin.ValocraftPlugin
+authors: [kurpfy]
